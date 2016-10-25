@@ -1,9 +1,10 @@
-ipynb_checkpoints
+.ipynb_checkpoints
 *.pyc
 .DS_Store
 .idea
 *.bak
 *.swp
+*.csv
 *.txt
 *.log
 *.json
