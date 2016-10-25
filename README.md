@@ -1,5 +1,4 @@
 # HelloWorld
----------------------------------
 
 Click badge below to launch Jupyter notebook.  
 Look for the lesson in the appropriate DS folder   
